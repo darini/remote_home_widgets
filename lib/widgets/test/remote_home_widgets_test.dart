@@ -106,7 +106,7 @@ class RemoteHomeWidgetsTest extends StatelessWidget {
                   const SizedBox(height: 12),
                   Container(
                     decoration: const BoxDecoration(
-                      color: Colors.yellow,
+                      color: Colors.blue,
                       borderRadius: BorderRadius.all(Radius.circular(12)),
                     ),
                     width: 205,
@@ -123,7 +123,7 @@ class RemoteHomeWidgetsTest extends StatelessWidget {
                           ),
                           Icon(
                             Icons.arrow_forward_outlined,
-                            color: Colors.blue,
+                            color: Colors.white,
                           ),
                         ],
                       ),
