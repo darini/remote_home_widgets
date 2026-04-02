@@ -28,7 +28,7 @@ class RemoteHomeWidgetsTest extends StatelessWidget {
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(15),
                     // color: const Color(0xFFFDE047),
-                    color: Colors.blue,
+                    color: Colors.yellow,
                     boxShadow: [
                       BoxShadow(
                         color: Color.fromARGB(255, 210, 211, 212),
@@ -117,13 +117,13 @@ class RemoteHomeWidgetsTest extends StatelessWidget {
                           Text(
                             'Ler notas da versão',
                             style: TextStyle(
-                              color: Colors.black,
+                              color: Colors.white,
                               fontWeight: FontWeight.w700,
                             ),
                           ),
                           Icon(
                             Icons.arrow_forward_outlined,
-                            color: Colors.black,
+                            color: Colors.blue,
                           ),
                         ],
                       ),
